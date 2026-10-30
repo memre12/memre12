@@ -83,6 +83,10 @@ Localization, SLAM, motion planning, perception, point-cloud processing, simulat
   </a>
 </h3>
 
+<a href="https://github.com/memre12/gpu-lidar-localization/stargazers">
+  <img src="https://img.shields.io/github/stars/memre12/gpu-lidar-localization?style=flat-square&logo=github&label=Stars&labelColor=0F172A&color=2563EB" alt="Stars"/>
+</a>
+
 <p>
 Real-time, map-based 6-DoF localization using ROS 2, CUDA-accelerated ICP, and point-cloud registration.
 </p>
@@ -102,6 +106,10 @@ Real-time, map-based 6-DoF localization using ROS 2, CUDA-accelerated ICP, and p
     Multi-Sensor Fusion Localization
   </a>
 </h3>
+
+<a href="https://github.com/memre12/multi_sensor_fusion_localization/stargazers">
+  <img src="https://img.shields.io/github/stars/memre12/multi_sensor_fusion_localization?style=flat-square&logo=github&label=Stars&labelColor=0F172A&color=2563EB" alt="Stars"/>
+</a>
 
 <p>
 A multi-sensor state-estimation framework combining GNSS, IMU, and vehicle-speed measurements.
